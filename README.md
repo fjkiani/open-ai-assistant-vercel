@@ -53,17 +53,4 @@ ChatH is built on the following stack:
 - [Vercel](https://vercel.com) – deployments
 - [TailwindCSS](https://tailwindcss.com/) – styles
 
-## Contributing
 
-Here's how you can contribute:
-
-- [Open an issue](https://github.com/steven-tey/chathn/issues) if you believe you've encountered a bug.
-- Make a [pull request](https://github.com/steven-tey/chathn/pull) to add new features/make quality-of-life improvements/fix bugs.
-
-## Author
-
-- Steven Tey ([@steventey](https://twitter.com/steventey))
-
-## License
-
-Licensed under the [MIT license](https://github.com/steven-tey/chathn/blob/main/LICENSE.md).
